@@ -657,6 +657,11 @@ Type of Functions
    - C) Removes the last element from an array
    - D) Checks if a certain element is present in the array
 
+
+
+
+
+Feedback Gform 
 That sounds like a fascinating study! To gauge the effectiveness of your game compared to traditional learning methods, you'll want to collect a variety of feedback from both groups of students. Here are some suggestions for the feedback you might ask for:
 
 1. **Overall Learning Experience:**
